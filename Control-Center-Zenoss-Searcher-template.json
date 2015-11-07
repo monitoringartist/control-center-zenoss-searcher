@@ -1,15 +1,15 @@
 {
    "ID": "",
-   "Name": "Zenoss Searcher",
+   "Name": "Zenoss-Searcher",
    "Version": "1",
-   "Description": "Zenoss Searcher / created by www.monitoringartist.com",
+   "Description": "Zenoss-Searcher / created by www.monitoringartist.com",
    "Services": [
      {
-       "Name": "Zenoss Searcher",
-       "Title": "Zenoss Searcher",
+       "Name": "Zenoss-Searcher",
+       "Title": "Zenoss-Searcher",
        "Version": "1",
        "Command": "/run.sh",
-       "Description": "Zenoss Searcher / created by www.monitoringartist.com",
+       "Description": "Zenoss-Searcher / created by www.monitoringartist.com",
        "Tags": null,
        "ImageID": "monitoringartist/zenoss-searcher:latest",
        "Instances": {

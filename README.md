@@ -14,6 +14,11 @@ Installation
 - Deploy Zenoss Searcher Application
 - Start and use it - default vhost zenoss-searcher
 
+Known issues
+============
+
+- health checks are failing
+
 Author
 ======
 
