@@ -19,6 +19,18 @@ Known issues
 
 - health checks are failing
 
+Troubleshooting
+===============
+
+Check if app is running:
+
+```
+[ccuser@ccmaster] curl -sk --header 'Host: zenoss-searcher.local' 'https://127.0.0.1:443' | grep 'github.com/monitoringartist/zenoss-searcher'
+    <a href="https://github.com/monitoringartist/zenoss-searcher" target="_blank" class="forkme">
+```
+
+If you can see this output in command line '<a href="https://github.com/monitoringartist/zenoss-searcher" target="_blank" class="forkme">' and you are not able to see app in your browser, then you have some problem with DNS records/hosts file.
+
 Author
 ======
 
