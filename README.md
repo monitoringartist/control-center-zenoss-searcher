@@ -1,6 +1,8 @@
 Zenoss Searcher Control Center template
 =======================================
 
+![Unsupported](https://img.shields.io/badge/development_status-unsupported-red.svg)
+
 [Dockerized Zenoss Searcher](http://monitoringartist.github.io/zenoss-searcher/)
 template for [Zenoss Control Center](http://controlcenter.io/)
 
@@ -34,10 +36,10 @@ If you can see this output in command line '<a href="https://github.com/monitori
 Author
 ======
 
-[Devops Monitoring zExpert](http://www.jangaraj.com 'DevOps / Docker / Zabbix / Zenoss / Monitoring'), who loves monitoring 
-systems, which start with letter Z. Those are Zabbix and Zenoss.
+[Devops Monitoring Expert](http://www.jangaraj.com 'DevOps / Docker / Kubernetes / AWS ECS / Google GCP / Zabbix / Zenoss / Terraform / Monitoring'),
+who loves monitoring systems, which start with letter Z. Those are Zabbix and Zenoss.
 
-Professional monitoring services:
+Professional devops / monitoring services:
 
 [![Monitoring Artist](http://monitoringartist.com/img/github-monitoring-artist-logo.jpg)]
-(http://www.monitoringartist.com 'DevOps / Docker / Zabbix / Zenoss / Monitoring')
+(http://www.monitoringartist.com 'DevOps / Docker / Kubernetes / AWS ECS / Google GCP / Zabbix / Zenoss / Terraform / Monitoring')
